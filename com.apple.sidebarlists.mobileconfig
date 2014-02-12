@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.sidebarlists</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_data_timestamp</key>
+							<date>2014-01-29T12:00:00Z</date>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>favoriteservers</key>
+								<dict>
+									<key>Controller</key>
+									<string>CustomListItems</string>
+									<key>CustomListItems</key>
+									<array>
+										<dict>
+											<key>Name</key>
+											<string>cifs://storage.imp.ac.at/groups</string>
+											<key>URL</key>
+											<string>cifs://storage.imp.ac.at/groups</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>cifs://gaudi.imp.univie.ac.at/</string>
+											<key>URL</key>
+											<string>cifs://gaudi.imp.univie.ac.at/</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>cifs://wright.imp.univie.ac.at/</string>
+											<key>URL</key>
+											<string>cifs://wright.imp.univie.ac.at/</string>
+										</dict>
+										<dict>
+											<key>Name</key>
+											<string>cifs://manray.imp.univie.ac.at/</string>
+											<key>URL</key>
+											<string>cifs://manray.imp.univie.ac.at/</string>
+										</dict>
+									</array>
+								</dict>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.f3260e8c-64f8-4992-8a00-aa5108569e9b.alacarte.customsettings.be637757-c926-4023-8278-c9e6d112430a</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>be637757-c926-4023-8278-c9e6d112430a</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.sidebarlists
+</string>
+	<key>PayloadDisplayName</key>
+	<string>Connect to Server Favorites</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.sidebarlists</string>
+	<key>PayloadOrganization</key>
+	<string>IMP/IMBA IT Department</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>f3260e8c-64f8-4992-8a00-aa5108569e9b</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
